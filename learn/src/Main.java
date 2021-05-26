@@ -12,4 +12,13 @@ public class Main {
         helloInfo();
         System.out.format("application end.");
     }
+
+    /**
+     * two hour english listening log.
+     */
+    public  void info2(){
+
+
+
+    }
 }

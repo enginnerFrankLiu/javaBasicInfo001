@@ -37,7 +37,6 @@ public class logInfo {
 
 
     }
-
     /**
      * 还可以修饰参数、若某个参数被final修饰了，则代表了该参数是不可改变的。
      * @param age
