@@ -15,6 +15,7 @@ public class Main {
 
     /**
      * two hour english listening log.
+     * attend english training.
      */
     public  void info2(){
 
